@@ -22,4 +22,4 @@ OR
 2) causal effect of IV on V to be exaggerated/decreased by effect of confounding variable (there is a relationship between IV and DV, confounding exaggerates it and reduces [[Validity\|Validity]])
 
 
-
+#### Confounding variables must be eliminated through experimental design to ensure experiment is actually measuring the effect of the IV and VD validity and not the effect of the confounding variable
