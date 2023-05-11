@@ -11,7 +11,7 @@ Ted Tudor || 2023-05-11
 # Validity
 
 - the degree to which a measurement tool evaluates what it is designed to measure.
-- i.e. Does an IQ test measures someone’s intelligence? Yes – it’s valid OR Does an IQ test measure someone’s athletic ability? No – it’s not a valid
+- i.e. Does an IQ test measures someone’s intelligence? Yes – it’s valid OR Does an IQ test measure someone’s athletic ability? No – it’s not a valid  
 [[Variables relating to Validity\|Variables relating to Validity]]
 
 # Reliability
