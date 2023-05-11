@@ -9,6 +9,6 @@ Ted Tudor || 2023-05-10
 *** 
 ### Exam revision
 [[TERM 2/Psych/Scientific Method\|Scientific Method]] 
-
-
+[[Variables relating to Validity\|Variables relating to Validity]]
+[[Validity\|Validity]]
 
