@@ -46,6 +46,7 @@ e.g. There will be a difference between the number of cold symptoms experienced 
 **Qualitative data** – descriptive information in the form of words.  
 **Quantitative data** – information in the form of numbers that can be counted.
 ### 5. Analyse Data
+[[Analyse Data\|Analyse Data]]
 ### 6. Interpret Data
 [[Validity & Reliability\|Validity & Reliability]]
 ### 7. Report Findings
