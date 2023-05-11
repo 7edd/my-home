@@ -7,8 +7,8 @@ Contents: [[TERM 2/Psych/Psychology Map of Contents\|Psychology Map of Contents]
 [[Classes\|Classes]]  
 Ted Tudor || 2023-05-10
 *** 
-### Exam revision
+### Exam revision/Research Methods
 [[TERM 2/Psych/Scientific Method\|Scientific Method]] 
 [[Variables relating to Validity\|Variables relating to Validity]]
-[[Validity\|Validity]]
+[[Validity & Reliability\|Validity & Reliability]]
 
