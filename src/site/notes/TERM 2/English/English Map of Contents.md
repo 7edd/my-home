@@ -2,9 +2,9 @@
 {"dg-publish":true,"permalink":"/term-2/english/english-map-of-contents/"}
 ---
 
-Related: #english
-Contents: [[TERM 2/English/English Map of Contents\|English Map of Contents]]
-[[Classes\|Classes]]
+Related: #english  
+Contents: [[TERM 2/English/English Map of Contents\|English Map of Contents]]  
+[[Classes\|Classes]]  
 Ted Tudor || 2023-05-10
 ***
 [[TERM 2/English/ENGLISH PRESENTATION\|ENGLISH PRESENTATION]]
