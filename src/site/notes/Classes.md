@@ -6,6 +6,8 @@ Related:
 [[Classes\|Classes]]
 Ted Tudor || 2023-05-11
 ***
+[[Music Composition Practical Exam Pieces\|Music Composition Practical Exam Pieces]]
+
 ## Classses
 [[TERM 2/Psych/Psychology Map of Contents\|Psychology Map of Contents]]
 [[TERM 2/English/English Map of Contents\|English Map of Contents]]
