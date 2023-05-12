@@ -9,3 +9,5 @@ Ted Tudor || 2023-05-10
 ***
 [[TERM 2/Music/anything else/UWA WORKSHOP NOTES\|UWA WORKSHOP NOTES]]
 [[composition thingy\|composition thingy]]
+
+[[alyssas stupid suggestions\|alyssas stupid suggestions]]
