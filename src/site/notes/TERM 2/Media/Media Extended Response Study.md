@@ -12,7 +12,7 @@ Ted Tudor || 2023-05-10
 
 
 To do 
-- [ ] Watch avatar 📅 2023-05-14 
+- [ ] Watch avatar 📅 2023-05-14
 - [ ] Technological enhancements 📅 2023-05-14 
 - [ ] General media trends due to the technology 📅 2023-05-14 
 - [ ] Audience response in relation to technology 🔼 📅 2023-05-14
