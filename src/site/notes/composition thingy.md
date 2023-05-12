@@ -25,3 +25,5 @@ My composition draws inspiration from Debussy, Hisaishi, and Sakamoto. Building 
 The gradual development of these harmonies adds depth and expansiveness to the composition. Briefly departing from traditional tonality, the whole tone scale introduces an otherworldly and dreamlike quality, providing contrast and intrigue. Deliberately incorporating moments of clarity and confusion, multiple key changes create tonal confusion while retaining tonality.
 
 This fosters anticipation, curiosity, and emotional engagement, leading to moments of heightened understanding and emotion. A significant tonal shift around the end, transitions keys upward, evoking brightness and hope. This serves as a cathartic release following moments of tension and confusion. Finally, the composition concludes with an ambiguous chord, offering a sense of completion while leaving room for interpretation and contemplation. The melodies used throughout the piece were greatly inspired by Joe Hisaishi, while being memorable and repetitive, it also invokes a sense of nostalgia.
+
+## Prelude in C# minor
