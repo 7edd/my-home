@@ -14,9 +14,8 @@ Ted Tudor || 2023-05-10
 [[Variables relating to Validity\|Variables relating to Validity]]
 [[Validity & Reliability\|Validity & Reliability]]
 ### Everything on the practice exam 
-[[nervous system and neural transmission\|nervous system and neural transmission]]
-[[Brain locations and brain scanning\|Brain locations and brain scanning]]
-[[attachment theory\|attachment theory]]
-[[stages of development\|stages of development]]
-
-
+[[Biological psychology\|Biological psychology]]
+[[Lifespan Psychology Development overview\|Lifespan Psychology Development overview]]
+[[Lifespan Psychology Neuroplasticity\|Lifespan Psychology Neuroplasticity]]
+[[Lifespan Psychology Cognitive Development\|Lifespan Psychology Cognitive Development]]
+[[Lifespan Psychology Social and emotional development\|Lifespan Psychology Social and emotional development]]
