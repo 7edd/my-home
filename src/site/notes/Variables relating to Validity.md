@@ -16,7 +16,7 @@ Ted Tudor || 2023-05-11
 
 - A variable, other than the IV, that has a systemic effect on the value of the DV. If a confounding variable exist, no valid conclusion about the research can be drawn 
 
-## Confounding Variable :
+## Confounding Variable
 
 - Have an effect on the DV
 - Have a relationship association (even if only correlational) with IV
