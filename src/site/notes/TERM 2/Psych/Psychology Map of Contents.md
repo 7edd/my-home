@@ -13,9 +13,5 @@ Ted Tudor || 2023-05-10
 [[TERM 2/Psych/Scientific Method\|Scientific Method]]  
 [[Variables relating to Validity\|Variables relating to Validity]]
 [[Validity & Reliability\|Validity & Reliability]]
-### Everything on the practice exam 
-[[Biological psychology\|Biological psychology]]
-[[Lifespan Psychology Development overview\|Lifespan Psychology Development overview]]
-[[Lifespan Psychology Neuroplasticity\|Lifespan Psychology Neuroplasticity]]
-[[Lifespan Psychology Cognitive Development\|Lifespan Psychology Cognitive Development]]
-[[Lifespan Psychology Social and emotional development\|Lifespan Psychology Social and emotional development]]
+
+[[Exam Prep\|Exam Prep]]
