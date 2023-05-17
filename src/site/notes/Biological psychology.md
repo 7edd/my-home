@@ -94,6 +94,11 @@ Complex mental behaviours such as: 
 -   Where visual info is first received and processed
 -   Assembles the bits of visual info into a ‘whole picture’
 ### Occipital lobe
+-   Receive information from both eyes, processes and interprets it
+-   Contains:
+-   Primary Visual Cortex
+-   Where visual info is first received and processed
+-   Assembles the bits of visual info into a ‘whole picture’
 
 
 ---
