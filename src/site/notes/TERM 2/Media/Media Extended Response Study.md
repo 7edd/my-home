@@ -8,7 +8,7 @@ Contents: [[TERM 2/Media/Media Map of Contents\|Media Map of Contents]]
 Ted Tudor || 2023-05-10
 ***
 [[Princess Mononoke\|Princess Mononoke]]
-[[Avatar\|Avatar]]
+[[Avatar\|Avatar]] dont care anymroe
 
 
 To do 
