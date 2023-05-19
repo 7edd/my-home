@@ -15,5 +15,5 @@ Ted Tudor || 2023-05-10
 [[Validity & Reliability\|Validity & Reliability]]
 
 Alot of things in here
-[[Exam Prep\|Exam Prep]]
+[[Exam Prep Semester 1\|Exam Prep Semester 1]]
 
