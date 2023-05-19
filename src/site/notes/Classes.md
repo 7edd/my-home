@@ -15,6 +15,7 @@ Ted Tudor || 2023-05-11
 [[TERM 2/Media/Media Map of Contents\|Media Map of Contents]]
 
 ## Daily 
-[[ToDo\|ToDo]]
+[[Study plan\|Study plan]]
+
 
 
