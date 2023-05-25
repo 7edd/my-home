@@ -9,4 +9,6 @@ Ted Tudor || 2023-05-10
 ***
 [[TERM 2/Media/Media Extended Response Study\|Media Extended Response Study]]
 [[practice short answer\|practice short answer]]
-[[BRICK\|BRICK]]
+# Specific movie notes
+[[Brick Exam Revision Notes\|Brick Exam Revision Notes]]
+[[Princess Mononoke Exam Revision Notes\|Princess Mononoke Exam Revision Notes]]
