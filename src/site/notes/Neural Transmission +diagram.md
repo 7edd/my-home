@@ -12,11 +12,11 @@ Ted Tudor || 2023-05-18
 
 # 1
 
-An electrical impulse (action potential) travels along the axon which reaches the axon terminal
+An<mark style="background: #CACFD9A6;"> electrical impuls</mark>e (action potential) travels along the axon which reaches the axon terminal
 
 # 2
 
-The impulse stimulates the release of chemicals called neurotransmitters
+The impulse stimulates the release of <mark style="background: #CACFD9A6;">chemical</mark>s called neurotransmitters
 
 # 3
 
@@ -32,7 +32,7 @@ Neurotransmitters are received by receptor sites on the dendrites of the next ne
 
 # 6
 
-The dendrites interprets the message and turns into an electrical signal to be sent along the neuron
+The dendrites interprets the message and turns into an <mark style="background: #CACFD9A6;">electrical signal </mark>to be sent along the neuron
 
 # 7
 
