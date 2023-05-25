@@ -7,9 +7,9 @@ Contents: [[TERM 2/Media/Media Map of Contents\|Media Map of Contents]]
 [[Classes\|Classes]]  
 Ted Tudor || 2023-05-10
 ***
-[[Princess Mononoke\|Princess Mononoke]]
+[[Princess Mononoke Exam Revision Notes\|Princess Mononoke Exam Revision Notes]]
 [[Avatar\|Avatar]] dont care anymroe
-[[BRICK\|BRICK]]
+[[Brick Exam Revision Notes\|Brick Exam Revision Notes]]
 
 
 To do 
