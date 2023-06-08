@@ -10,3 +10,6 @@ Ted Tudor || 2023-05-10
 [[TERM 2/English/ENGLISH PRESENTATION\|ENGLISH PRESENTATION]]
 [[Lady Bird Notes\|Lady Bird Notes]]
 [[Responding\|Responding]]
+[[Exam Notes English\|Exam Notes English]]
+[[Comparative Essay\|Comparative Essay]]
+
