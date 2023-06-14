@@ -59,7 +59,6 @@ tonal and exact (atonal) 
 - inverted left hand, displaced rhythmically 
 
   
-
 ## **Retrograde**
 
 ### **Bach Musical Offering 1747**
