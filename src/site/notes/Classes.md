@@ -16,6 +16,6 @@ Ted Tudor || 2023-05-11
 
 ## Daily 
 [[Study plan\|Study plan]]
-
+[[quick notes\|quick notes]]
 
 
