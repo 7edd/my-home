@@ -11,7 +11,7 @@ Ted Tudor || 2023-05-10
 [[composition thingy\|composition thingy]]
 [[Haydn\|Haydn]]
 [[alyssas stupid suggestions\|alyssas stupid suggestions]]
-[[puisss\|puisss]]
+
 
 # Set works, semester 2 
 [[ Take the 'A' Train\| Take the 'A' Train]]
