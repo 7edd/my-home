@@ -38,9 +38,11 @@ Ted Tudor || 2023-06-09
 - He was originally named Edward Kennedy Ellington, but was nicknamed Duke during childhood, apparently due to his air of sophistication.
 - Ellington played at social events in his late teens with his first band, called ‘The Duke’s Coloured Syncopators’, who then went on to play larger gigs in New York. He began recording, and with a new manager Irving Mills in the late 1920s Ellington was on his way to becoming a well-known figure.
 
----
 
+---
 # Score
+![[Ella+Fitzgerald-+Take+The+A+Train+(Unit+2-+Narratives).pdf]]
+# Original Score
 
 ![[Take the A Train chart.pdf]]
 
