@@ -62,3 +62,6 @@ to determine if individuals would conform to group pressure
 
 Ordinary people are likely to follow orders given by an authority figure, even to the extent of killing an innocent human being.
 
+---
+
+![Screenshot 2023-06-14 at 1.14.58 pm.png|400](/img/user/Screenshot%202023-06-14%20at%201.14.58%20pm.png)
