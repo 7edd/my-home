@@ -9,6 +9,11 @@ Ted Tudor || 2023-06-14
 ***
 [[Social Influence theory\|Social Influence theory]]
 
+#### Three steps
+**Cognitive** - think
+**Emotional** - feel
+**Behavioural** - act
+
 # Conformity - Asch
 
 ## Aim
