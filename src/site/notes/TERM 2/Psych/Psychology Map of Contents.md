@@ -11,6 +11,7 @@ Ted Tudor || 2023-05-10
 ## Social Psych 
 [[Conformity and obedience\|Conformity and obedience]]
 [[Social Influence theory\|Social Influence theory]]
+[[Why people conform\|Why people conform]]
 
 # Semester 1 
 ## Research Methods
