@@ -11,6 +11,7 @@ Ted Tudor || 2023-05-10
 [[composition thingy\|composition thingy]]
 [[Haydn\|Haydn]]
 [[alyssas stupid suggestions\|alyssas stupid suggestions]]
+[[chris watkins\|chris watkins]]
 
 
 # Set works, semester 2 
