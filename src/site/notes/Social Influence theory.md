@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/social-influence-theory/"}
 ---
 
-Related: #psych  [[Conformity and obedience\|Conformity and obedience]]
+Related: #psych  [[Conformity and obedience\|Conformity and obedience]] [[Why people conform\|Why people conform]]
 Contents: [[TERM 2/Psych/Psychology Map of Contents\|Psychology Map of Contents]]  
 [[Classes\|Classes]]  
 Ted Tudor || 2023-06-14
