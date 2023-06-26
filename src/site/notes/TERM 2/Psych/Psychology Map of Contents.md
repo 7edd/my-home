@@ -14,6 +14,7 @@ Ted Tudor || 2023-05-10
 [[Why people conform\|Why people conform]]
 [[Types of extraneous variables\|Types of extraneous variables]]
 [[Asch's experiment\|Asch's experiment]]
+[[How to write an investigation\|How to write an investigation]]
 
 # Semester 1 
 ## Research Methods
