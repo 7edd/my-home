@@ -7,6 +7,7 @@ Contents: [[TERM 2/Music/Music Map of Contents\|Music Map of Contents]]
 [[Classes\|Classes]]  
 Ted Tudor || 2023-06-09
 ***
+<iframe title="Duke Ellington/Ella Fitzgerald: Take the A Train | Background &amp; Form" src="https://www.youtube.com/embed/1U2Bk0Nlz_8?feature=oembed" height="113" width="200" allowfullscreen="" allow="fullscreen" style="aspect-ratio: 1.76991 / 1; width: 100%; height: 100%;"></iframe>
 # Background
 
 ## UWA Notes Summarised (Not Analysis section)
