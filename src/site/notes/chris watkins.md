@@ -28,3 +28,34 @@ Act 2: bigfoot\ (1974)
 Act 3: exclusive interview 
 
 
+
+
+
+
+
+# Documentary Plans:
+
+## Synopsis/Summary
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
