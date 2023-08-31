@@ -8,6 +8,8 @@ Contents: [[TERM 2/Psych/Psychology Map of Contents\|Psychology Map of Contents]
 Ted Tudor || 2023-05-10
 *** 
 # Semester 2 
+[[Semester 2\|Semester 2]]
+
 ## Social Psych 
 [[Conformity and obedience\|Conformity and obedience]]
 [[Social Influence theory\|Social Influence theory]]
@@ -15,6 +17,12 @@ Ted Tudor || 2023-05-10
 [[Types of extraneous variables\|Types of extraneous variables]]
 [[Asch's experiment\|Asch's experiment]]
 [[How to write an investigation\|How to write an investigation]]
+[[Pro Social Behaviour\|Pro Social Behaviour]]
+[[Attitude formation\|Attitude formation]]
+[[Cognitive dissonance\|Cognitive dissonance]]
+[[attribution theory\|attribution theory]]
+[[Social Identity Theory\|Social Identity Theory]]
+
 
 # Semester 1 
 ## Research Methods
