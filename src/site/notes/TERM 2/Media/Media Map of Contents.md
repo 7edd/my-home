@@ -20,3 +20,8 @@ Ted Tudor || 2023-05-10
 [[Princess Mononoke Exam Revision Notes\|Princess Mononoke Exam Revision Notes]]
 
 [[chris watkins\|chris watkins]]
+
+# Propoganda
+[[Propoganda notes\|Propoganda notes]]
+
+[[politics\|politics]]
