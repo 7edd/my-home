@@ -22,9 +22,10 @@ Ted Tudor || 2023-05-10
 [[Cognitive dissonance\|Cognitive dissonance]]
 [[attribution theory\|attribution theory]]
 [[Social Identity Theory\|Social Identity Theory]]
+[[Attitudes and stereotypes, prejudice and discrimination\|Attitudes and stereotypes, prejudice and discrimination]]
+
+## Test revision
 [[Test revision\|Test revision]]
-
-
 # Semester 1 
 ## Research Methods
 [[TERM 2/Psych/Scientific Method\|Scientific Method]]  
