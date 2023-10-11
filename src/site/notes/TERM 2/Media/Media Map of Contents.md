@@ -14,6 +14,8 @@ Ted Tudor || 2023-05-10
 
 # Documentary 
 [[Documentary Notes 2023-06-07\|Documentary Notes 2023-06-07]]
+[[Conventions and whatnot\|Conventions and whatnot]]
+[[Documentary conventions\|Documentary conventions]]
 
 # Specific movie notes
 [[Brick Exam Revision Notes\|Brick Exam Revision Notes]]
