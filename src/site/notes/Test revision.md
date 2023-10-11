@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/test-revision/"}
+{"dg-publish":true,"permalink":"/test-revision/","tags":["psych"]}
 ---
 
 Related: #psych
@@ -28,5 +28,11 @@ Ted Tudor || 2023-09-04
 
 ---
 # Social influence theory
+
 [[Social Influence theory\|Social Influence theory]]
+
+---
+# Attitude Formation 
+
+[[Attitude formation\|Attitude formation]]
 
