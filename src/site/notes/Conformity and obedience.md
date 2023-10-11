@@ -14,7 +14,7 @@ Ted Tudor || 2023-06-14
 **Emotional** - feel
 **Behavioural** - act
 
-# Conformity - Asch
+# Conformity - Asch (1955)
 
 ## Aim
 
