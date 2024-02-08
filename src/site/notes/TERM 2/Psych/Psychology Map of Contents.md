@@ -7,6 +7,11 @@ Contents: [[TERM 2/Psych/Psychology Map of Contents\|Psychology Map of Contents]
 [[Classes\|Classes]]  
 Ted Tudor || 2023-05-10
 *** 
+# Year 12 sem 1 
+[[psych experiment results\|psych experiment results]]
+[[Sensation and Perception; and the role of attention in memory\|Sensation and Perception; and the role of attention in memory]]
+
+
 # Semester 2 
 [[Semester 2\|Semester 2]]
 
@@ -35,3 +40,4 @@ Ted Tudor || 2023-05-10
 Alot of things in here
 [[Exam Prep Semester 1\|Exam Prep Semester 1]]
 
+[[jghgfdghjskfgdshjkfgdskja\|jghgfdghjskfgdshjkfgdskja]]
