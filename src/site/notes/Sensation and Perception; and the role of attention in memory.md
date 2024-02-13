@@ -65,3 +65,21 @@ There are three distinct processes in involved in perception - selection, organi
 - Interpretation of sensory information is determined by personal values, experiences, beliefs, needs, involvement and other personal factors. 
 - These factors make the interpretations stage subjective 
 
+# The role of attention in memory
+- Selective and divided attention as seen in the Cocktail party effect (cherry, 1953) 
+
+## Selective attention 
+- The process of focusing on a particular object in the environment for a certain period of time, 
+- Attention is a limited resource, so selective attention allows us to tune out unimportant details and focus on what matters. 
+## Divided attention 
+- Where mental effort must be divided between tasks or stimuli, each of which demands more or less the same amount of attention 
+### The Cocktail Party Effect (Cherry 1953)
+- Colin Cherry was interested in the ability of listeners to select target speech while ignoring other sounds in conditions where signals were wither mixed or presented to seperate ears. 
+- In 1953 Colin Cherry coined the term 'Cocktail party effect' based on a series of experiments he conducted 
+- 'Cocktail party effect': our capacity to filter out noise in the background to focus on a single stimulus 
+## Key points 
+- We have the ability to selectively attend to certain stimuli while filtering out other stimuli 2 
+- People have the ability yo switch their attention back and forth between selected stimuli. Such as if you are in a crowded room having a conversation with one person then you hear another person say your name 
+- We use physical differences between the various auditory messages to select the on of interests. These physical differences include differences in the sex of the speaker, in voice intensity, and in the location of the speaker. U
+-  unattended auditory information receives very little processing. 
+
