@@ -84,4 +84,6 @@ George miller 1956
 [[tldraw/Baddeley Working Memory Model 2024-02-15 10.26AM\|Baddeley Working Memory Model 2024-02-15 10.26AM]]
 
 
+All relates to [[Memory\|Memory]] 
+Meow
 
