@@ -14,11 +14,6 @@ Ted Tudor || 2023-05-10
 [[Memory formation\|Memory formation]]
 [[Henry Molaison - "HM"\|Henry Molaison - "HM"]]
 
-
-
-
-
-
 # Semester 2 
 [[Semester 2\|Semester 2]]
 
