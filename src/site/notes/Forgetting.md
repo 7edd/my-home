@@ -34,3 +34,11 @@ Ted Tudor || 2024-02-28
 	- 'active' forgetting 
 	- Aware of memory but choose not to recall it.
 	- Effective dissociative technique 
+
+# Decay theory 
+- Forgetting occurs because the memory trace (initially formed at learning) tends to gradually fade or decay over time 
+	- This theory assumes memories are not permanent. 
+	- Revisiting memories reduces/counteracts decay.
+	- Principle cause of forgetting = time 
+- Difficult to test or corroborate or disprove 
+- Criticism of idea that time is principle cause of forgetting as older memories often retained/ easily retrieved while new memories can be difficult to retrieve. 
