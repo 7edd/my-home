@@ -10,6 +10,9 @@ Ted Tudor || 2023-05-10
 # Year 12
 ## Semester 1 
 [[Plan short story\|Plan short story]]
+[[quotes english\|quotes english]]
+
+
 
 
 
