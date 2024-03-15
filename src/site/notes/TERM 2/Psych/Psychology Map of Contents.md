@@ -14,6 +14,11 @@ Ted Tudor || 2023-05-10
 [[Memory formation\|Memory formation]]
 [[Henry Molaison - "HM"\|Henry Molaison - "HM"]]
 [[Forgetting\|Forgetting]]
+[[typing\|typing]]
+[[Remembering\|Remembering]]
+[[sampling\|sampling]]
+[[Craik and Tulving (1975)\|Craik and Tulving (1975)]]
+[[Forgetting Curve\|Forgetting Curve]]
 
 # Semester 2 
 [[Semester 2\|Semester 2]]
