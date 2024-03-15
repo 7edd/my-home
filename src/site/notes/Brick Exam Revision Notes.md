@@ -37,7 +37,7 @@ The controls and constraints limit the scope of a media producers’ creative fr
 # General Info
 
 Johnson had been influenced by various noir novels and films.  
-Adapts noir archetypes into a high school setting  
+**Adapts noir archetypes into a high school setting**
 Spent 6 years pitching the idea and looking for funding
 - Raised money with the help of friends and family  
 
