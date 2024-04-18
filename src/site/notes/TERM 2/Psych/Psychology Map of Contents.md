@@ -8,6 +8,7 @@ Contents: [[TERM 2/Psych/Psychology Map of Contents\|Psychology Map of Contents]
 Ted Tudor || 2023-05-10
 *** 
 # Year 12 sem 1 
+## [[Term 1\|Term 1]]
 [[psych experiment results\|psych experiment results]]
 [[Sensation and Perception; and the role of attention in memory\|Sensation and Perception; and the role of attention in memory]]
 [[Memory\|Memory]]
@@ -19,6 +20,10 @@ Ted Tudor || 2023-05-10
 [[sampling\|sampling]]
 [[Craik and Tulving (1975)\|Craik and Tulving (1975)]]
 [[Forgetting Curve\|Forgetting Curve]]
+[[Memory loss\|Memory loss]]
+## Term 2 
+[[Learning\|Learning]]
+
 
 # Semester 2 
 [[Semester 2\|Semester 2]]
