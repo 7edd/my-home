@@ -21,6 +21,10 @@ Ted Tudor || 2023-05-10
 [[Craik and Tulving (1975)\|Craik and Tulving (1975)]]
 [[Forgetting Curve\|Forgetting Curve]]
 [[Memory loss\|Memory loss]]
+[[Schedules of Reinforcement\|Schedules of Reinforcement]]
+[[psych to do \|psych to do ]]
+
+
 ## Term 2 
 [[Learning\|Learning]]
 
