@@ -27,6 +27,17 @@ Explains some learning of involuntary emotional and physiological responses
 ### Ivan Pavlov (1902)
 A leading theorist in Classical Conditioning was Ivan Pavlov, a Russian physiologist (NOT a psychologist)
 
+#### Stimulus generalisation 
+- Demonstrates the conditioned response to stimuli that are similar to the condition stimulus 
+- This was very evident in Watson and Rayners study with little Albert 
+#### Stimulus discrimination 
+- Learns to respond differently to various stimuli that are similar 
+
+### Extinction 
+- Decrease in the conditioned response when the unconditiond stimulus is no longer presented with the conditioned stimulus 
+### Spontaneous recovery
+- The return of a previously extinguished conditioned response following a rest period 
+
 ## Operant conditioning 
 Associate a **voluntary** behaviour and a **consequence**
 
