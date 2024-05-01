@@ -12,6 +12,9 @@ Ted Tudor || 2023-05-10
 [[Plan short story\|Plan short story]]
 [[quotes english\|quotes english]]
 [[english tutor\|english tutor]]
+[[Ex Machina\|Ex Machina]]
+[[Essay plan\|Essay plan]]
+[[A guide to writing short answer responses\|A guide to writing short answer responses]]
 
 
 
