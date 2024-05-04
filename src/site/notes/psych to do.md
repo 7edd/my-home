@@ -8,3 +8,4 @@ Contents: [[TERM 2/Psych/Psychology Map of Contents\|Psychology Map of Contents]
 Ted Tudor || 2024-05-01
 ***
 - Everything on learning 
+- Social learning study 
