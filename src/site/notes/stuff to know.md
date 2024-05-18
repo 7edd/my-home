@@ -64,5 +64,25 @@ Florence price
 - Billie Holiday - Strange Fruit 
 - James Brown – ‘Say it Loud, I’m Black and I’m Proud’ (1968)
 - Any other Nina Simone song, Missisipi Goddamn, Strange fruit ect. 
-- 
+
+## Analysis
+#### Form 
+- **Strophic Form** - AAA
+- Comparing the melodic contour of the final verse to the first two verses. Simone sings a fairly different melody, which mimics somewhat the improvisation style of early jazz and vocalists from the earlier parts of the twentieth century.
+	- **Jazz influence, African American identity **
+## Instrumentation 
+- Simone performs on piano and is accompanied by a range of male and female singers. 
+
+- There is an ensemble who acts as backing for Simone, featuring saxophones, trumpets, trombones, and rhythm section. 
+	- **Jazz, gospel instrumentation, African American identity**
+- There is a prominent vibraphone present in the studio recording. This instrument had been popularised in jazz through its use in the Modern Jazz Quartet.
+
+## Harmony 
+- Simple, less adventurous harmony 
+- However, referring to the version of the score selected by SCSA for study, there are a number of chords listed with extensions. These chords (e.g. Eaug7 b. 10 and G11 b. 31) highlight the jazz harmonic sensibilities of Simone  
+	- **Jazz influence, African American identity, Nina Simones context.**
+
+# Amy Beach (1867-1944) Gaelic Symphony (1894) first movement
+## Key info 
+g the first American woman to find success as a composer of large-scale art music. She was also the first Americantrained concert pianist, and amongst the first generation of American professional female instrumentalists.
 
