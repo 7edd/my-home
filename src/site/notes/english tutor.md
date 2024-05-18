@@ -8,4 +8,6 @@ Contents: [[TERM 2/English/English Map of Contents\|English Map of Contents]]
 Ted Tudor || 2024-03-14
 ***
 **How are film codes used to develop an idea in ex machina**
+Go over GRAmmer for COMPOSING SHORT STORY, like paraggraphing and DIALOGUEEE specifically 
+
 
