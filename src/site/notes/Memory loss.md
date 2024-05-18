@@ -13,9 +13,6 @@ Ted Tudor || 2024-03-28
 ⁃	degeneration - memory loss over time due to neurone slowly decaying 
 ⁃	drug induced - can be temporary while under the influence of drugs, or permanent due to neural damage caused by drug use/misuse/abuse
 
-# Dementia
-- describes a collection of symptoms caused by disorders affecting the brain, it is not one specific disease, each of the above theories leas to dementia in some form. 
-
 # Chronic traumatic encephalopathy (CTE)
 ⁃	progressive brain disease associated with repeated trauma to the brain, gets worse over time 
 ⁃	causes the death of nerve cells in the brain, known as degeneration 
