@@ -29,7 +29,6 @@ Ted Tudor || 2023-05-10
 [[All Operant Conditioning (HUGE DOCUMENT)\|All Operant Conditioning (HUGE DOCUMENT)]]
 [[Social learning\|Social learning]]
 
-[[psych to do \|psych to do ]]
 
 # Semester 2 
 [[Semester 2\|Semester 2]]
