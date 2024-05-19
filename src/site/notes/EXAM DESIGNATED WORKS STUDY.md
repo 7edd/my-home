@@ -7,20 +7,6 @@ Contents: [[TERM 2/Music/Music Map of Contents\|Music Map of Contents]]
 [[Classes\|Classes]]
 Ted Tudor || 2024-05-17
 ***
-Marryuna comparitive works 
-Female composers 
-	CLara 
-	Nannera (mozart sister)
-Comparitive for everything
-
-Justify voice 
-Uwa notes
-
-Yolnu 
-
-Florence price 
-
----
 # Marryuna
 
 ## Key info 
