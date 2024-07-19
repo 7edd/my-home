@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cognitive-dissonance/"}
+{"dg-publish":true,"permalink":"/Cognitive dissonance/"}
 ---
 
 Related: #psych
