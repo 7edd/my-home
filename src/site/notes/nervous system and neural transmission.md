@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/nervous-system-and-neural-transmission/"}
+{"dg-publish":true,"permalink":"/nervous system and neural transmission/"}
 ---
 
 Related: #psych
