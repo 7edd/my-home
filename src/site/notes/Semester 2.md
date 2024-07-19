@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/semester-2/"}
+{"dg-publish":true,"permalink":"/Semester 2/"}
 ---
 
 Related: #psych
