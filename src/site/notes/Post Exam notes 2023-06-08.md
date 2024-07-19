@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/post-exam-notes-2023-06-08/"}
+{"dg-publish":true,"permalink":"/Post Exam notes 2023-06-08/"}
 ---
 
 Related: #english  
