@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-truths-and-a-lie/"}
+{"dg-publish":true,"permalink":"/2 truths and a lie/"}
 ---
 
 Related: #english
