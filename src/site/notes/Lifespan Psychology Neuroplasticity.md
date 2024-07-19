@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/lifespan-psychology-neuroplasticity/"}
+{"dg-publish":true,"permalink":"/Lifespan Psychology Neuroplasticity/"}
 ---
 
 Related: #psych  
