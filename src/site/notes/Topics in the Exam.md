@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/topics-in-the-exam/"}
+{"dg-publish":true,"permalink":"/Topics in the Exam/"}
 ---
 
 Related: #media
