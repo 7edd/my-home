@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/lifespan-psychology-social-and-emotional-development/"}
+{"dg-publish":true,"permalink":"/Lifespan Psychology Social and emotional development/"}
 ---
 
 Related: #psych
