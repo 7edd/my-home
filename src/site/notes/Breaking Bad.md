@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/breaking-bad/"}
+{"dg-publish":true,"permalink":"/Breaking Bad/"}
 ---
 
 Related: #english
