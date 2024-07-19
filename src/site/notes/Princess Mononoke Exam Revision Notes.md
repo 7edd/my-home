@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/princess-mononoke-exam-revision-notes/"}
+{"dg-publish":true,"permalink":"/Princess Mononoke Exam Revision Notes/"}
 ---
 
 Related: #media
