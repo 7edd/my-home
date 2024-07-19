@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/take-the-a-train/"}
+{"dg-publish":true,"permalink":"/Take the 'A' Train/"}
 ---
 
 Related: #music  
