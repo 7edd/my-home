@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/variables-relating-to-validity/"}
+{"dg-publish":true,"permalink":"/Variables relating to Validity/"}
 ---
 
 Related: #psych  
