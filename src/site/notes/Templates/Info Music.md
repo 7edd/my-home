@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/templates/info-music/"}
+{"dg-publish":true,"permalink":"/Templates/Info Music/"}
 ---
 
 Related: #music
