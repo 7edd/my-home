@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/propoganda-notes/"}
+{"dg-publish":true,"permalink":"/Propoganda notes/"}
 ---
 
 Related: #media
