@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/lady-bird-notes/"}
+{"dg-publish":true,"permalink":"/Lady Bird Notes/"}
 ---
 
 Related: #english  
