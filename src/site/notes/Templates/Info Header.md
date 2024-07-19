@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/templates/info-header/"}
+{"dg-publish":true,"permalink":"/Templates/Info Header/"}
 ---
 
 Related: #
