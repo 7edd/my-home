@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/stages-of-development/"}
+{"dg-publish":true,"permalink":"/stages of development/"}
 ---
 
 Related: #psych
