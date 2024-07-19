@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/documentary-conventions/"}
+{"dg-publish":true,"permalink":"/Documentary conventions/"}
 ---
 
 Related: #media
