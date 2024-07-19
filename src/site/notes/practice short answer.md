@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/practice-short-answer/"}
+{"dg-publish":true,"permalink":"/practice short answer/"}
 ---
 
 Related: #media
