@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/craik-and-tulving-1975/"}
+{"dg-publish":true,"permalink":"/Craik and Tulving (1975)/"}
 ---
 
 Related: #psych
