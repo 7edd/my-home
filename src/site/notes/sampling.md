@@ -2,8 +2,7 @@
 {"dg-publish":true,"permalink":"/sampling/"}
 ---
 
-Related: #psych
-Contents: [[TERM 2/Psych/Psychology Map of Contents\|Psychology Map of Contents]]
+`Contents: [[TERM 2/Psych/Psychology Map of Contents\|Psychology Map of Contents]]
 [[Classes\|Classes]]
 Ted Tudor || 2024-03-11
 ***
