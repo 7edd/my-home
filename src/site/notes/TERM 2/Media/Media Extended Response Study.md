@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/term-2/media/media-extended-response-study/"}
+{"dg-publish":true,"permalink":"/TERM 2/Media/Media Extended Response Study/"}
 ---
 
 Related: #media  
