@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/henry-molaison-hm/"}
+{"dg-publish":true,"permalink":"/Henry Molaison - \"HM\"/"}
 ---
 
 Related: #psych
