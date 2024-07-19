@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/all-operant-conditioning-huge-document/"}
+{"dg-publish":true,"permalink":"/All Operant Conditioning (HUGE DOCUMENT)/"}
 ---
 
 Related: #psych
