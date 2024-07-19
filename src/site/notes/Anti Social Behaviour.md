@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/anti-social-behaviour/"}
+{"dg-publish":true,"permalink":"/Anti Social Behaviour/"}
 ---
 
 Related: #psych
