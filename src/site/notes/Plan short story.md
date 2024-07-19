@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/plan-short-story/"}
+{"dg-publish":true,"permalink":"/Plan short story/"}
 ---
 
 Related: #english
