@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/psych-to-do/"}
+{"dg-publish":true,"permalink":"/psych to do/"}
 ---
 
 Related: #psych
