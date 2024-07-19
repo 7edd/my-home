@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/quotes-english/"}
+{"dg-publish":true,"permalink":"/quotes english/"}
 ---
 
 Related: #english
