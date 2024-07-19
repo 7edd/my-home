@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/essay-plan/"}
+{"dg-publish":true,"permalink":"/Essay plan/"}
 ---
 
 Related: #psych
