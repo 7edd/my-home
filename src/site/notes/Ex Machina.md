@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ex-machina/"}
+{"dg-publish":true,"permalink":"/Ex Machina/"}
 ---
 
 Related: #english
