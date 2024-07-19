@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/short-story-practice/"}
+{"dg-publish":true,"permalink":"/short story practice/"}
 ---
 
 Related: #english
