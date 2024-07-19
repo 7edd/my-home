@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/term-2/media/media-extended-response-notes/"}
+{"dg-publish":true,"permalink":"/TERM 2/Media/MEDIA EXTENDED RESPONSE NOTES/"}
 ---
 
 Related: #media
