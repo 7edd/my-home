@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/term-2/english/english-presentation/"}
+{"dg-publish":true,"permalink":"/TERM 2/English/ENGLISH PRESENTATION/"}
 ---
 
 Related: #english  
