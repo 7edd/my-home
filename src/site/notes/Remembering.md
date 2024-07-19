@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/remembering/"}
+{"dg-publish":true,"permalink":"/Remembering/"}
 ---
 
 Related: #psych
