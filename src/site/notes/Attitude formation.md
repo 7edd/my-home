@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/attitude-formation/"}
+{"dg-publish":true,"permalink":"/Attitude formation/"}
 ---
 
 Related: #psych
