@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/schedules-of-reinforcement/"}
+{"dg-publish":true,"permalink":"/Schedules of Reinforcement/"}
 ---
 
 Related: #psych
