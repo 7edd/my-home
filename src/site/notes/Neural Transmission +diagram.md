@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/neural-transmission-diagram/"}
+{"dg-publish":true,"permalink":"/Neural Transmission +diagram/"}
 ---
 
 Related: #psych  
