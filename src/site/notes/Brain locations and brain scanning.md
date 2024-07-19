@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/brain-locations-and-brain-scanning/"}
+{"dg-publish":true,"permalink":"/Brain locations and brain scanning/"}
 ---
 
 Related: #psych
