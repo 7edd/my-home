@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/memory-loss/"}
+{"dg-publish":true,"permalink":"/Memory loss/"}
 ---
 
 Related: #psych
