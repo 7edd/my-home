@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/term-2/music/anything-else/uwa-workshop-notes/"}
+{"dg-publish":true,"permalink":"/TERM 2/Music/anything else/UWA WORKSHOP NOTES/"}
 ---
 
 Related: #music  
