@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/conformity-and-obedience/"}
+{"dg-publish":true,"permalink":"/Conformity and obedience/"}
 ---
 
 Related: #psych [[Social Influence theory\|Social Influence theory]]  [[Why people conform\|Why people conform]]
