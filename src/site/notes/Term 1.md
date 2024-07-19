@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/term-1/"}
+{"dg-publish":true,"permalink":"/Term 1/"}
 ---
 
 Related: #psych
