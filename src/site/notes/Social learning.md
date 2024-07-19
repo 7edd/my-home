@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/social-learning/"}
+{"dg-publish":true,"permalink":"/Social learning/"}
 ---
 
 Related: #psych
