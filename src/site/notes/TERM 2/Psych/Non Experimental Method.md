@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/term-2/psych/non-experimental-method/"}
+{"dg-publish":true,"permalink":"/TERM 2/Psych/Non Experimental Method/"}
 ---
 
 Related: #psych
