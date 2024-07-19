@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/term-2/psych/psychology-map-of-contents/"}
+{"dg-publish":true,"permalink":"/TERM 2/Psych/Psychology Map of Contents/"}
 ---
 
 Related: #psych  
@@ -28,6 +28,13 @@ Ted Tudor || 2023-05-10
 [[Schedules of Reinforcement\|Schedules of Reinforcement]]
 [[All Operant Conditioning (HUGE DOCUMENT)\|All Operant Conditioning (HUGE DOCUMENT)]]
 [[Social learning\|Social learning]]
+
+# Semester 2 2024
+[[Motivation\|Motivation]]
+[[Wellbeing\|Wellbeing]]
+[[Stress\|Stress]]
+
+
 
 
 # Semester 2 
