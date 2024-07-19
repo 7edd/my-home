@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/term-2/psych/scientific-method/"}
+{"dg-publish":true,"permalink":"/TERM 2/Psych/Scientific Method/"}
 ---
 
 Related: #psych
