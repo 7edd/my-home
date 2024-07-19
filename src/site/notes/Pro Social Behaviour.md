@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/pro-social-behaviour/"}
+{"dg-publish":true,"permalink":"/Pro Social Behaviour/"}
 ---
 
 
