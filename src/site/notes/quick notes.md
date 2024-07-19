@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/quick-notes/"}
+{"dg-publish":true,"permalink":"/quick notes/"}
 ---
 
 Related:
