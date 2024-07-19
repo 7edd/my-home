@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/brick-exam-revision-notes/"}
+{"dg-publish":true,"permalink":"/Brick Exam Revision Notes/"}
 ---
 
 Related: #media  
