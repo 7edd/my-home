@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/exam-prep-semester-1/"}
+{"dg-publish":true,"permalink":"/Exam Prep Semester 1/"}
 ---
 
 Related: #psych
