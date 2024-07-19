@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/biological-psychology/"}
+{"dg-publish":true,"permalink":"/Biological psychology/"}
 ---
 
 Related: #psych  
