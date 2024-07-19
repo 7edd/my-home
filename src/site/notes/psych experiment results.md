@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/psych-experiment-results/"}
+{"dg-publish":true,"permalink":"/psych experiment results/"}
 ---
 
 Related: #psych
