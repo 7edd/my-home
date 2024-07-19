@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/conventions-and-whatnot/"}
+{"dg-publish":true,"permalink":"/Conventions and whatnot/"}
 ---
 
 Related: #media
