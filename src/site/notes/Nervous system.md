@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/nervous-system/"}
+{"dg-publish":true,"permalink":"/Nervous system/"}
 ---
 
 Related: #psych
