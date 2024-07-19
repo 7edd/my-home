@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/asch-s-experiment/"}
+{"dg-publish":true,"permalink":"/Asch's experiment/"}
 ---
 
 Related: #psych  
