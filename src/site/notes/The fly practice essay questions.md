@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-fly-practice-essay-questions/"}
+{"dg-publish":true,"permalink":"/The fly practice essay questions/"}
 ---
 
 Related: #english [[The Fly\|The Fly]]  
