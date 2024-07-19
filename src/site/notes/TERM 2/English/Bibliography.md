@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/term-2/english/bibliography/"}
+{"dg-publish":true,"permalink":"/TERM 2/English/Bibliography/"}
 ---
 
 Related: #english
