@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/exam-designated-works-study/"}
+{"dg-publish":true,"permalink":"/EXAM DESIGNATED WORKS STUDY/"}
 ---
 
 Related: #music
