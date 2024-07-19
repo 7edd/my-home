@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/test-revision/","tags":["psych"]}
+{"dg-publish":true,"permalink":"/Test revision/","tags":["psych"]}
 ---
 
 Related: #psych
