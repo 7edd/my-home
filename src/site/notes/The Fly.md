@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-fly/"}
+{"dg-publish":true,"permalink":"/The Fly/"}
 ---
 
 Related: #english  
