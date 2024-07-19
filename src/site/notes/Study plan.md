@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/study-plan/"}
+{"dg-publish":true,"permalink":"/Study plan/"}
 ---
 
 Related:
