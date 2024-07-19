@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/lifespan-psychology-development-overview/"}
+{"dg-publish":true,"permalink":"/Lifespan Psychology Development overview/"}
 ---
 
 Related: #psych
