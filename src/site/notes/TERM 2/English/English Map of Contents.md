@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/term-2/english/english-map-of-contents/"}
+{"dg-publish":true,"permalink":"/TERM 2/English/English Map of Contents/"}
 ---
 
 Related: #english  
@@ -18,7 +18,7 @@ Ted Tudor || 2023-05-10
 [[english tutor\|english tutor]]
 
 
-
+[[english \|english ]]
 
 
 
