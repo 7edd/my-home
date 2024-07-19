@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/attachment-theory/"}
+{"dg-publish":true,"permalink":"/attachment theory/"}
 ---
 
 Related: #psych
