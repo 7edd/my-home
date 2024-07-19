@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/alyssas-stupid-suggestions/"}
+{"dg-publish":true,"permalink":"/alyssas stupid suggestions/"}
 ---
 
 Related: #music
