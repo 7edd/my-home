@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/a-guide-to-writing-short-answer-responses/"}
+{"dg-publish":true,"permalink":"/A guide to writing short answer responses/"}
 ---
 
 Related: #english
