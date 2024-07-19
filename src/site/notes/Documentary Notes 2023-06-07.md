@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/documentary-notes-2023-06-07/"}
+{"dg-publish":true,"permalink":"/Documentary Notes 2023-06-07/"}
 ---
 
 Related: #media
