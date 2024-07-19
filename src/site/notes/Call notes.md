@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/call-notes/"}
+{"dg-publish":true,"permalink":"/Call notes/"}
 ---
 
 Related: #english
