@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/types-of-extraneous-variables/"}
+{"dg-publish":true,"permalink":"/Types of extraneous variables/"}
 ---
 
 Related: #psych  [[Validity & Reliability\|Validity & Reliability]] [[Variables relating to Validity\|Variables relating to Validity]]
