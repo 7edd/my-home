@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/templates/info-psych/"}
+{"dg-publish":true,"permalink":"/Templates/Info Psych/"}
 ---
 
 Related: #psych
