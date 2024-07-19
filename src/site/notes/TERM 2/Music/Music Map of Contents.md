@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/term-2/music/music-map-of-contents/"}
+{"dg-publish":true,"permalink":"/TERM 2/Music/Music Map of Contents/"}
 ---
 
 Related: #music 
