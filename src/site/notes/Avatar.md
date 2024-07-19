@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/avatar/"}
+{"dg-publish":true,"permalink":"/Avatar/"}
 ---
 
 Related: #media
