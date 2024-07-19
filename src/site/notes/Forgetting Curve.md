@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/forgetting-curve/"}
+{"dg-publish":true,"permalink":"/Forgetting Curve/"}
 ---
 
 Related: #psych
