@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/term-2/media/media-map-of-contents/"}
+{"dg-publish":true,"permalink":"/TERM 2/Media/Media Map of Contents/"}
 ---
 
 Related: #media
