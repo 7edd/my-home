@@ -19,3 +19,6 @@ Ted Tudor || 2024-07-18
 - Selye defined stress as a ‘nonspecific response of the body o any demand’ demands can be physiological or psychological 
 
 - He also explained how stress and health were biochemically linked, and that chronic stress created physiological illness when the endocrine system became exhausted in his general adaptation syndrome theory 
+
+# Models of Stress 
+## Stress as a response - general adaption syndrome 
