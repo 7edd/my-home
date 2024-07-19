@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/attitudes-and-stereotypes-prejudice-and-discrimination/"}
+{"dg-publish":true,"permalink":"/Attitudes and stereotypes, prejudice and discrimination/"}
 ---
 
 Related: #psych
