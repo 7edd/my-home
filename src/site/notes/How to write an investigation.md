@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/how-to-write-an-investigation/"}
+{"dg-publish":true,"permalink":"/How to write an investigation/"}
 ---
 
 Related: #psych  
