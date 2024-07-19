@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/brain-plasticity/"}
+{"dg-publish":true,"permalink":"/Brain plasticity/"}
 ---
 
 Related: #psych
