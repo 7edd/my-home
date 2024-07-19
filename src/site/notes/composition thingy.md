@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/composition-thingy/"}
+{"dg-publish":true,"permalink":"/composition thingy/"}
 ---
 
 Related: #music
