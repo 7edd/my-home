@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/why-people-conform/"}
+{"dg-publish":true,"permalink":"/Why people conform/"}
 ---
 
 Related: #psych  
