@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/music-composition-practical-exam-pieces/"}
+{"dg-publish":true,"permalink":"/Music Composition Practical Exam Pieces/"}
 ---
 
 Related: #music
