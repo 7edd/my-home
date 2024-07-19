@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/broadchurch-episode-1-notes/"}
+{"dg-publish":true,"permalink":"/Broadchurch episode 1 notes/"}
 ---
 
 Related: #english
