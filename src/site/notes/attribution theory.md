@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/attribution-theory/"}
+{"dg-publish":true,"permalink":"/attribution theory/"}
 ---
 
 Related: #psych
