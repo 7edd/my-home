@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/memory-formation/"}
+{"dg-publish":true,"permalink":"/Memory formation/"}
 ---
 
 Related: #psych
