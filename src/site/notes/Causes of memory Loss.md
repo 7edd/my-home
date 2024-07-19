@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/causes-of-memory-loss/"}
+{"dg-publish":true,"permalink":"/Causes of memory Loss/"}
 ---
 
 Related: #psych
