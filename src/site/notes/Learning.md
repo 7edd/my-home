@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/learning/"}
+{"dg-publish":true,"permalink":"/Learning/"}
 ---
 
 Related: #psych
