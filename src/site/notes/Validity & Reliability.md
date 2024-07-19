@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/validity-and-reliability/"}
+{"dg-publish":true,"permalink":"/Validity & Reliability/"}
 ---
 
 Related: #psych  
