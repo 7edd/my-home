@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/templates/info-english/"}
+{"dg-publish":true,"permalink":"/Templates/Info English/"}
 ---
 
 Related: #english
