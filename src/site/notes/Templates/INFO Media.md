@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/templates/info-media/"}
+{"dg-publish":true,"permalink":"/Templates/INFO Media/"}
 ---
 
 Related: #media
