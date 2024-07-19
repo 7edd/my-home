@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/lifespan-psychology-cognitive-development/"}
+{"dg-publish":true,"permalink":"/Lifespan Psychology Cognitive Development/"}
 ---
 
 Related: #psych
