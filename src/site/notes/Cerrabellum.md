@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cerrabellum/"}
+{"dg-publish":true,"permalink":"/Cerrabellum/"}
 ---
 
 Related: #psych
