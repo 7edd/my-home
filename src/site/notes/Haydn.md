@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/haydn/"}
+{"dg-publish":true,"permalink":"/Haydn/"}
 ---
 
 Related: #music
