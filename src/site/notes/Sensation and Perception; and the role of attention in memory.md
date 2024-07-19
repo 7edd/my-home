@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sensation-and-perception-and-the-role-of-attention-in-memory/"}
+{"dg-publish":true,"permalink":"/Sensation and Perception; and the role of attention in memory/"}
 ---
 
 Related: #psych
