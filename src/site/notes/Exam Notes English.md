@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/exam-notes-english/"}
+{"dg-publish":true,"permalink":"/Exam Notes English/"}
 ---
 
 Related: #english
