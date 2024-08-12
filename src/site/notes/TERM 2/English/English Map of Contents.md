@@ -17,6 +17,9 @@ Ted Tudor || 2023-05-10
 [[A guide to writing short answer responses\|A guide to writing short answer responses]]
 [[english tutor\|english tutor]]
 
+[[Persuasive housing crisis\|Persuasive housing crisis]]
+[[interprative ideas\|interprative ideas]]
+
 
 [[english \|english ]]
 
