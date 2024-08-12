@@ -7,4 +7,9 @@ Contents:
 [[Classes\|Classes]]
 Ted Tudor || 2023-06-09
 ***
-Japanese study thursday lunch 1 
+What to do 
+- Music, clarashuman lieder 
+- Music set works analysis 
+- English persuasive 
+
+
