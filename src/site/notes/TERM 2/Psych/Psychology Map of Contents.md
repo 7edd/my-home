@@ -22,7 +22,6 @@ Ted Tudor || 2023-05-10
 [[Forgetting Curve\|Forgetting Curve]]
 [[Memory loss\|Memory loss]]
 [[Causes of memory Loss\|Causes of memory Loss]]
-
 ## Learning
 [[Learning\|Learning]]
 [[Schedules of Reinforcement\|Schedules of Reinforcement]]
@@ -33,6 +32,8 @@ Ted Tudor || 2023-05-10
 [[Motivation\|Motivation]]
 [[Wellbeing\|Wellbeing]]
 [[Stress\|Stress]]
+[[test stress\|test stress]]
+[[Sleep\|Sleep]]
 
 
 
