@@ -90,3 +90,63 @@ Each sleep cycle is made up of distinct stages; three stages of non rapid eye mo
 - Most dreaming occurs in this stage, dreams can occur in any sleep stage, but they are less common and less intense in the NREM periods.
 
 ***REM sleep periods lengthen and occur closer together as sleep continues***
+
+![Screenshot 2024-08-12 at 4.31.27 pm.png](/img/user/Screenshot%202024-08-12%20at%204.31.27%20pm.png)
+
+## Sleep Cycle 
+- A night’s sleep consists of 4-6 sleep cycles lasting approx. 90mins each.
+- Sleep cycles alter in length throughout the night, as does the time spent within each of the different stages
+	- First cycle is often the shortest, from 70-100 min
+		- Later cycles 90-120
+- Sleep cycles vary from person to person and from night to night
+
+- Impacted by a range of factors such as age, recent sleep patterns, alcohol consumption, stress, etc
+
+# Sleep deprivation
+- A general term used to describe the state cause by inadequate quantity or quality of sleep, either voluntarily or involuntarily 
+
+- May be a result of various factors
+	- Work
+	- Study demands
+	- Social and family responsibility 
+- Regardless of the cause, the effects are the same. 
+- Can carry both short and long term psychological and physiological consequences. 
+
+## Symptoms 
+- Fatigue
+- Mood changes
+- Difficulty concentrating
+- Memory problems 
+- Paranoia 
+- Hallucinations 
+
+### Affective functioning 
+- Sleep deprivation compromises our ability to process emotional information, make accurate emotional perceptions and then regulate how we respond emotionally. We can find it harder to accurately judge other peoples emotions and reactions, making us more prone to unwarranted outbursts 
+	- Some studies show that sleep loss is associated with becoming aggressive more quickly than usual and with the outward expression of aggressive impulses. 
+
+## Behavioural functioning 
+- Immediate effect of sleep deprivation on behavioural functioning can be sleep inertia- the performance impairment that occurs immediately after awakening., this is a seep to wake transition effect that can follow a  poor nights sleep, especially if abruptly awoken during slow wave deep sleep or when sleep duration is insufficient 
+
+- The primary behavioural effect of sleep deprivation is exessive sleepiness during normal waking time fatigue isa. Common symptom. There is a persistent feeling f tiredness and lack of energy. Like sleep inertia, fatigue contributes to drowsiness, difficulty maintaining concentration and reduced awareness on the environment. 
+
+- Sometimes a lack of sleep or excessive sleepiness may result in unintended, involuntary lapses into sleep called microscleeps. A microsleep is a brief period of sleep lasting up to a few seconds
+
+### Cognitive functioning
+- Slows speed of processing 
+- Increased distractibility 
+- Impaired performance in intensive tasks
+- Decline in working memory, particularly recall 
+- Reduce alertness 
+
+## Sleep deprivation diagnosis 
+- Dianose infufficient sleep syndrome, which includes sleep deprivation, when a person meets six criteria 
+	- Falls asleep during the day 
+	- Sleeps less than recommended for most nights for at least threee months 
+	- Symptoms resolve when they sleep more 
+	- Sleep less than recommended for their age group 
+	- Wakes up due to an alarm or another person when they could be sleeping 
+	- Symptoms arnt cuased by a sleep disorder, a health problem or drug use or withdraws 
+
+
+
+
