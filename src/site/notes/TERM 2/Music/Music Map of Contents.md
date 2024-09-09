@@ -15,6 +15,11 @@ Ted Tudor || 2023-05-10
 [[EXAM DESIGNATED WORKS STUDY\|EXAM DESIGNATED WORKS STUDY]]
 [[Designated Works Final\|Designated Works Final]]
 
+[[Short ride fast Machine \|Short ride fast Machine ]]
+[[Bohemian Rhapsody \|Bohemian Rhapsody ]]
+[[Thatimtamfnmdnfs\|Thatimtamfnmdnfs]]
+
+
 
 
 
