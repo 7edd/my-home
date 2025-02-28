@@ -9,6 +9,8 @@ Ted Tudor || 2023-05-11
 [[Music Composition Practical Exam Pieces\|Music Composition Practical Exam Pieces]]
 
 ## Classses
+[[Music Revolutions\|Music Revolutions]]
+
 [[TERM 2/Psych/Psychology Map of Contents\|Psychology Map of Contents]]
 [[TERM 2/English/English Map of Contents\|English Map of Contents]]
 [[TERM 2/Music/Music Map of Contents\|Music Map of Contents]]
