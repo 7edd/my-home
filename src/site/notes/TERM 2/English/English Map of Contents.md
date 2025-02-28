@@ -19,6 +19,7 @@ Ted Tudor || 2023-05-10
 
 [[Persuasive housing crisis\|Persuasive housing crisis]]
 [[interprative ideas\|interprative ideas]]
+[[The Yellow Wallpaper\|The Yellow Wallpaper]]
 
 
 [[english \|english ]]
